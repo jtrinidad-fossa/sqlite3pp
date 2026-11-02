@@ -218,7 +218,7 @@ g++ -std=c++11 -Iheaderonly_src headeronly_src/test_all.cpp -lsqlite3 -o test_al
 ```
 
 # Important Note
-Only the files in `headeronly_src` directory are maintained. All other source and test directories (`src`, `boost_src`, `test`) are deprecated and should not be used for new projects.
+Only the files in `headeronly_src` directory are maintained. All other source and test directories (`src`, `boost_src`, `test`) are deprecated and should not be used for new projects. TEST
 
 # See also
 * http://www.sqlite.org/
